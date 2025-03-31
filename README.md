@@ -27,6 +27,8 @@ The dataset includes the following:
 
 The dataset is available to download [here](https://github.com/NStanley0524/St.-Luke-Hospital-Data-Analytics/blob/main/hospital_datasets.xlsx)
 
+The dashboard contains 2 pages that visualize the analysis
+
 
 ## Prerequisite
 - Microsoft Excel or Google Sheet
