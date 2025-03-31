@@ -64,6 +64,7 @@ Find below the snapshot of the dashboard prepared for this analysis
 ![image](https://github.com/NStanley0524/St.-Luke-Hospital-Data-Analytics/blob/main/Dashboard.png)
 
 
+Dashboad 2 
 
 ![image](https://github.com/NStanley0524/St.-Luke-Hospital-Data-Analytics/blob/main/Dashboard%202.png)
 
