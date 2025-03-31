@@ -25,4 +25,40 @@ The dataset includes the following:
 4. Medical Staff: Doctor details, department specialization, and nurse-to-patient ratios.
 5. Emergency & ICU Data: Emergency visits, ambulance arrivals, time spent in ER, and ICU admissions.
 
-The dataset is available to download [here](
+The dataset is available to download [here](https://github.com/NStanley0524/St.-Luke-Hospital-Data-Analytics/blob/main/hospital_datasets.xlsx)
+
+
+## Prerequisite
+- Microsoft Excel or Google Sheet
+- Basic Understanding of Excel functions
+
+
+## Project Goals
+- Analyze financial trends to understand hospital revenue streams and identify inefficiencies.
+- Examine chronic conditions by age group to improve targeted healthcare strategies.
+- Track admissions by bed type and department to optimize resource allocation.
+- Assess the contribution of different insurance types to revenue and identify gaps in coverage.
+- Evaluate how medical conditions impact hospital stay durations and improve bed turnover.
+- Monitor ER visits over time to identify trends and improve ER efficiency.
+- Ensure adequate staffing across departments to balance workload and optimize care.
+- Assess the percentage of patient bills covered by insurance versus unpaid balances.
+
+
+
+## How to Use
+1. Download the dataset
+2. Open the Excel File
+3. Explore the Analysis
+4. Modify for Custom Use
+
+
+## Tech Stack
+- Excel: The primary tool for data cleaning, analysis and visualization
+- Pivot Tables:  Key Techniques used to analyze the data and present insights
+- Data Manipulation: Utilized Excel functions lke VLOOKUP, SUMIf, and othes to extract actionable data 
+
+
+## Dashboard
+Find below the snapshot of the dashboard prepared for this analysis
+
+
