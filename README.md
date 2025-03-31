@@ -61,4 +61,8 @@ The dataset is available to download [here](https://github.com/NStanley0524/St.-
 ## Dashboard
 Find below the snapshot of the dashboard prepared for this analysis
 
+https://github.com/NStanley0524/St.-Luke-Hospital-Data-Analytics/blob/main/Dashboard.png
 
+
+
+https://github.com/NStanley0524/St.-Luke-Hospital-Data-Analytics/blob/main/Dashboard%202.png
